@@ -31,5 +31,5 @@ git clone https://github.com/udacity/CarND-Traffic-Signs
 cd CarND-Traffic-Signs
 jupyter notebook Traffic_Signs_Recognition.ipynb
 ```
-3. Follow the instructions in the `Traffic_Signs_Recognition.ipynb` notebook.
+3. Follow the instructions in the `Traffic_Signs_Recognition.ipynb` notebook
 
